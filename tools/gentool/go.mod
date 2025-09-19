@@ -9,7 +9,7 @@ require (
 	gorm.io/driver/postgres v1.5.7
 	gorm.io/driver/sqlite v1.5.5
 	gorm.io/driver/sqlserver v1.5.3
-	github.com/hollfish/gen v0.0.0-20250919070112-57c0a74337e5
+	github.com/hollfish/gen v1.0.0
 	gorm.io/gorm v1.25.9
 )
 
