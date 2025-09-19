@@ -1,9 +1,9 @@
-module gorm.io/gen
+module github.com/hollfish/gen
 
 go 1.18
 
 require (
-	golang.org/x/tools v0.30.0
+	golang.org/x/tools v0.26.0
 	gorm.io/datatypes v1.2.4
 	gorm.io/gorm v1.25.12
 	gorm.io/hints v1.1.0

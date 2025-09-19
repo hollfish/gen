@@ -1,10 +1,10 @@
 package main
 
 import (
-	"gorm.io/gen"
-	"gorm.io/gen/examples/conf"
-	"gorm.io/gen/examples/dal"
-	"gorm.io/gen/examples/dal/model"
+	"github.com/hollfish/gen"
+	"github.com/hollfish/gen/examples/conf"
+	"github.com/hollfish/gen/examples/dal"
+	"github.com/hollfish/gen/examples/dal/model"
 	"gorm.io/gorm"
 )
 

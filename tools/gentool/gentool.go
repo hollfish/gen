@@ -13,7 +13,7 @@ import (
 	"gorm.io/driver/postgres"
 	"gorm.io/driver/sqlite"
 	"gorm.io/driver/sqlserver"
-	"gorm.io/gen"
+	"github.com/hollfish/gen"
 	"gorm.io/gorm"
 )
 

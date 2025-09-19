@@ -3,9 +3,9 @@ package main
 import (
 	"strings"
 
-	"gorm.io/gen"
-	"gorm.io/gen/examples/conf"
-	"gorm.io/gen/examples/dal"
+	"github.com/hollfish/gen"
+	"github.com/hollfish/gen/examples/conf"
+	"github.com/hollfish/gen/examples/dal"
 	"gorm.io/gorm"
 )
 

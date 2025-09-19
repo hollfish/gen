@@ -5,7 +5,7 @@ import (
 	"strconv"
 	"strings"
 
-	"gorm.io/gen/internal/parser"
+	"github.com/hollfish/gen/internal/parser"
 )
 
 //GetTestParamInTmpl return param list

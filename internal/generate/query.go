@@ -9,9 +9,9 @@ import (
 	"gorm.io/gorm"
 	"gorm.io/gorm/schema"
 
-	"gorm.io/gen/field"
-	"gorm.io/gen/internal/model"
-	"gorm.io/gen/internal/parser"
+	"github.com/hollfish/gen/field"
+	"github.com/hollfish/gen/internal/model"
+	"github.com/hollfish/gen/internal/parser"
 )
 
 type FieldParser interface {

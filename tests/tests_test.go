@@ -7,7 +7,7 @@ import (
 
 	"gorm.io/driver/mysql"
 	"gorm.io/driver/sqlite"
-	"gorm.io/gen"
+	"github.com/hollfish/gen"
 	"gorm.io/gorm"
 	"gorm.io/gorm/logger"
 )
