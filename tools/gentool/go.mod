@@ -48,3 +48,5 @@ require (
 	gorm.io/hints v1.1.0 // indirect
 	gorm.io/plugin/dbresolver v1.5.0 // indirect
 )
+
+replace gorm.io/gen/tools/gentool => github.com/hollfish/gen/tools/gentool
